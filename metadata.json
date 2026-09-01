@@ -1,0 +1,28 @@
+{
+  "title": "r.traveltime – historical technical description",
+  "original_publication_date": "2007-11-17",
+  "original_url": "https://jesbergwetter.twoday.net/stories/4845555/",
+  "author": "Kristian Förster",
+  "software": "r.traveltime",
+  "source_file": "user-supplied Firefox HTML save",
+  "preservation_scope": [
+    "article text",
+    "technical sections",
+    "references",
+    "six supplied illustration files",
+    "original equation image",
+    "LaTeX transcription of equations"
+  ],
+  "excluded": [
+    "sidebar",
+    "location map",
+    "blog navigation",
+    "software download archive"
+  ],
+  "included_update": {
+    "date": "2008-05-28",
+    "url": "https://jesbergwetter.twoday.net/stories/4955888/",
+    "source": "user-supplied copy-and-paste text",
+    "note": "Text preserved verbatim."
+  }
+}
