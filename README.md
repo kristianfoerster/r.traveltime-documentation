@@ -6,7 +6,7 @@ Source:
 https://jesbergwetter.twoday.net/stories/4845555/
 
 > **Historical note**  
-> The original technical description of `r.traveltime` was published in 2007 and remained available on the author's blog for many years. The original article and its 2008 update are preserved in this repository.
+> The original technical description of `r.traveltime` was published in 2007 and remained available on the author's blog for many years. The original article and its 2008 update are preserved here for historical reference.
 
 Contents:
 - `r.traveltime-technical-description.md` — article text preserved from the supplied Firefox HTML save
