@@ -14,3 +14,5 @@ Contents:
 The subsequent parameter-update article is linked from the Markdown document but is not incorporated into the historical article text.
 
 The package also includes the short parameter update published on 28 May 2008, supplied directly by the user.
+
+`r.traveltime` is available in the GRASS GIS Addons repository: [https://github.com/OSGeo/grass-addons/tree/grass8/src/raster/r.traveltime/](https://github.com/OSGeo/grass-addons/tree/grass8/src/raster/r.traveltime/)
