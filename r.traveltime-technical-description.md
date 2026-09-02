@@ -101,7 +101,7 @@ Deutlich erkennbar sind die geringeren Fließzeiten in Tälern und im steilen Ge
 
 ## Outlook
 
-The presented algorithm has been tested for one basin. Further testing and detailed evalution is needed to conclude on which scales the program works best.
+The presented algorithm has been tested for one basin. Further testing and detailed evaluation is needed to conclude on which scales the program works best.
 
 ## Ausblick
 
