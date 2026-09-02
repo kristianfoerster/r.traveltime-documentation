@@ -19,9 +19,6 @@ Contents:
 - `make-pdf.sh` — shell script for generating the PDF from the Markdown
   document using Pandoc and XeLaTeX.
 
-- `SHA256SUMS` — SHA-256 checksums for verifying the integrity of the
-  archived files.
-
 The subsequent parameter-update article is linked from the Markdown document but is not incorporated into the historical article text.
 
 The package also includes the short parameter update published on 28 May 2008, supplied directly by the user.
