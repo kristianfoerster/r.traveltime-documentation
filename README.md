@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22226847.svg)](https://doi.org/10.5281/zenodo.22226847)
+
 # r.traveltime – historical technical description
 
 This package preserves the technical article published on 17 November 2007.
